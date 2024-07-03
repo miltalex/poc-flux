@@ -9,4 +9,5 @@ spec:
   prune: true
   sourceRef:
     kind: GitRepository
-    name: poc-flux
+    name: app-a-repo
+  targetNamespace: app-a
